@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2010\Projects\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+c:\users\hp\documents\visual studio 2010\Projects\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Calculator3\Calculator3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2010\Projects\Calculator3\Calculator3\obj\x86\Debug\Calculator3.exe
+c:\users\hp\documents\visual studio 2010\Projects\Calculator3\Calculator3\obj\x86\Debug\Calculator3.pdb
